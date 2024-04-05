@@ -17,7 +17,7 @@ public class ContaTerminal {
         double saldo = sc.nextDouble();
 
         System.out.println("Por favor digite o nome do Titular da Conta ! ");
-        String titular = "";
+        String titular = sc.next();
 
         titular += sc.nextLine();
 
