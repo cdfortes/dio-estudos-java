@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PedraTerminal",
+            "request": "launch",
+            "mainClass": "PedraTerminal",
+            "projectName": "ContaBanco_5a4eb2ba"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
